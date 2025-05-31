@@ -1,2 +1,3 @@
-chainlit
-generative-ai
+Chainlit 
+python-dotenv
+google-generativeai
