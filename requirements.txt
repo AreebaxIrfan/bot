@@ -1,3 +1,5 @@
 Chainlit 
 python-dotenv
 google-generativeai
+openai>=1.0.0
+openai-agents>=0.0.1
